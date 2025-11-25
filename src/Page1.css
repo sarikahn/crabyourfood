@@ -1,0 +1,12 @@
+.page1 {
+  background-color: #E53935; /* Bright red */
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; /* White text */
+  font-size: 2.5rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
